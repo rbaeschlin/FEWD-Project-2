@@ -1,0 +1,56 @@
+/* ===== Global Styles ===== */
+
+* {
+  box-sizing: border-box;
+}
+
+/* ===== Base Element Styles ===== */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+  color: #8B8B8B;
+}
+
+p {
+  font-size: .9em;
+}
+
+h1,
+ul {
+  font-family: 'Monoton', cursive;
+  font-weight: normal;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* ===== Base Layout Styles ===== */
+
+/* ----- Navigation ----- */
+
+/* ----- Containers ----- */
+
+/* ----- Page Elements ----- */
+
+/* ===== Media Queries ===== */
+
+@media (min-width: 768px) {
+
+  /* ---- Float clearfix ---- */
+
+	/* .clearfix::after {
+		content: " ";
+		display: table;
+		clear: both;
+	} */
+}
+
+@media (min-width: 1024px) {
+
+}
