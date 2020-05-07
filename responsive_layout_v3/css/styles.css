@@ -41,6 +41,13 @@ a {
   text-decoration: none;
 }
 
+hr {
+  border: none;
+  border-top: 2px solid #ececec;
+  text-align: center;
+  width: 90%;
+}
+
 /* ===== Base Layout Styles ===== */
 
 /* ----- Navigation ----- */
