@@ -25,6 +25,7 @@ p {
 
 a {
   text-decoration: none;
+  color: #8B8B8B;
 }
 
 img {
@@ -92,6 +93,8 @@ hr {
 
 .container {
   text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .main-header,
@@ -203,7 +206,7 @@ hr {
   }
 
   .card {
-    width: 33%;
+    width: 33.33%;
     padding: 10px;
   }
 
