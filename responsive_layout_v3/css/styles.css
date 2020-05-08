@@ -94,7 +94,8 @@ hr {
   text-align: center;
 }
 
-.main-header {
+.main-header,
+.main-footer {
   padding: 1em 0;
 }
 
